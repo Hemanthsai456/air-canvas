@@ -1,0 +1,47 @@
+# MediaPipe model binary
+hand_landmarker.task
+
+# Recorded sessions and video files
+*.avi
+*.mp4
+*.mov
+recording_*.avi
+
+# Exported snapshots and local samples
+air_canvas_*.png
+wall_write_*.png
+samples_local/
+
+# Python cache and compiled bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pytest and coverage artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+venv/
+.venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# Editor and IDE configurations
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
