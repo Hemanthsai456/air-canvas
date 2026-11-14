@@ -4,13 +4,6 @@ Air Canvas is a responsive, touchless computer vision application that lets you 
 
 ---
 
-## 🎬 Demo
-
-![Air Canvas Demo](docs/demo.gif)
-
-> **Note**: Record a brief demonstration of mid-air writing with the application and save the animation as `docs/demo.gif` to display it here.
-
----
 
 ## 🌟 Ergonomics & Calligraphy Features
 
